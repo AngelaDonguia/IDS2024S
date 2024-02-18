@@ -13,7 +13,7 @@ LEVEL: Senior/undegraduate
 
 POSITION TITLE: Full time Student/employed
 
-COURSE WEBPAGE: 
+COURSE WEBPAGE: https://github.com/AngelaDonguia/IDS2024S
 
 PHOTO:
 
