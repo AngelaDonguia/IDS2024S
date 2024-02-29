@@ -1,1 +1,31 @@
-
+ENIAC stands for Electronic Numerical Integrator and Computer.
+Integers are represented because they are easier to manipulate electronically.
+Cache memory is the fastest part of computer memory.
+Mechanical Hard Disk Drives (HDDs) are typically the slowest storage devices integrated with computers.
+The bit is the smallest unit of information in computer science.
+(A) Assembly language. (B) Yes, it needs interpretation.
+Fortran is one of the oldest high-level programming languages still in daily use.
+It's around 65 years old.
+(A) Assembly language. (B) Second-generation.
+C was created in the 1970s, C++ in the 1980s, MATLAB/Python in the 1980s.
+Assembly language is an ancestor programming language of C.
+C is an ancestor programming language of C++.
+Fortran is an ancestor programming language of MATLAB, and ABC is an ancestor programming language of Python.
+Registers are the fastest part of the memory hierarchy in modern computers.
+The bit is typically the smallest memory unit in the memory hierarchy of modern computers.
+Access to register memory is significantly faster than RAM in modern computers.
+Access to RAM is much faster than typical SSD hard drives in modern computers.
+Access to RAM is much faster than typical HDD hard drives in modern computers.
+Transistors primarily serve as switches and amplifiers in computers.
+Adding more transistors increases power consumption and heat, leading to diminishing returns and challenges in cooling.
+Fetch, Decode, Execute.
+Yes, depending on various factors like architecture, efficiency, and workload distribution.
+Memory access is often the bottleneck in modern computers due to the gap between CPU speed and memory speed.
+Dennard Scaling refers to the shrinking of transistor size, MOSFET scaling involves scaling down MOSFETs, and Moore's Law relates to the doubling of transistors on a chip.
+The last square would require 2^63 grains, and to fill all squares, it's (2^64) - 1 grains.
+Approximately 92.4 billion pounds of rice.
+The last square would need 2^63 grains, and the sum is (2^64) - 1 grains.
+Approximately 184.5 billion pounds of rice.
+It would take several thousand years to produce the required amount of rice grains for this task.
+Syntax, Semantics, Control.
+Exponential behavior would show a rapid increase, while power-law behavior would show a more gradual, but still increasing, trend in a 2-dimensional plot.
