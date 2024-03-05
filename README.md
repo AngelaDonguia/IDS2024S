@@ -41,5 +41,6 @@ axd6964@mavs.uta.edu
 
 Student at the University of Texas at Arlington
 
-Data Science 
+Data Science
+
 Computer science
