@@ -1,1 +1,56 @@
+1. Steps involved in scientific inference:
+   - Observation: Making observations or collecting data.
+   - Hypothesis: Formulating a hypothesis to explain the observed phenomena.
+   - Prediction: Making predictions based on the hypothesis.
+   - Testing: Experimenting or gathering further evidence to test the predictions.
+   - Conclusion: Drawing conclusions based on the results of the tests.
 
+2. Three pillars of science:
+   - Empirical evidence: Based on observation and experimentation.
+   - Theoretical framework: Provides a conceptual framework for understanding phenomena.
+   - Mathematical modeling: Utilizes mathematical techniques to describe and predict behavior.
+
+3. Major applications of the third pillar of science with respect to the first two:
+   - Theoretical framework and mathematical modeling can replace empirical evidence in situations where direct observation or experimentation is not feasible, such as in theoretical physics or cosmology.
+   - Mathematical modeling can help validate or refine theoretical frameworks by providing quantitative predictions that can be tested against empirical data.
+   - Theoretical frameworks can guide the development of mathematical models by providing principles and concepts to incorporate into the models.
+
+4. Two different categories of logical reasoning:
+   - Deductive reasoning: Drawing specific conclusions from general principles.
+   - Inductive reasoning: Making generalizations based on observed patterns or data.
+
+5. Logical implication vs. physical causation:
+   - No, logical implication is not the same as physical causation. Logical implication indicates a relationship between propositions based on logical rules, while physical causation involves one event causing another event to occur in the physical world. For example, if it rains (A), then the ground is wet (B) is a logical implication, but it doesn't necessarily mean that rain causes the ground to be wet in all circumstances.
+
+6. Boolean algebra is named after George Boole.
+
+7. Logical conjunction (AND) via a Venn diagram:
+   - In a Venn diagram, the intersection of two sets represents the logical conjunction (AND) operation between two propositions. The overlapping area of the circles represents the combination of both propositions being true.
+
+8. Logical disjunction (OR) via a Venn diagram:
+   - In a Venn diagram, the union of two sets represents the logical disjunction (OR) operation between two propositions. The shaded area inside either or both circles represents the combination of either or both propositions being true.
+
+9. Two Boolean propositions are equal if they have the same truth values under all possible combinations of truth values for their variables.
+
+10. Logical implication \( A \Rightarrow B \) via a Venn diagram:
+    - In a Venn diagram, the circle representing proposition A must be completely contained within the circle representing proposition B, indicating that whenever A is true, B must also be true.
+
+11. 
+
+12. 
+
+13. 
+
+14. NAND equivalence:
+
+
+
+15. Logic NAND and NOR:
+
+    - NAND (NOT-AND) gate produces the complement of the logical AND operation.
+    - NOR (NOT-OR) gate produces the complement of the logical OR operation.
+
+16. Logical implication in terms of logic functions:
+
+
+18. Extra Credit: Yes, it was fair accept the mathmatic part needed more time
