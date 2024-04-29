@@ -1,1 +1,22 @@
 
+1. The four major definitions of probability are: classical, frequentist, subjective, and Bayesian.
+
+2. The subjective and Bayesian schools of probability theory define probability as a degree of confidence.
+
+3. The subjective and Bayesian schools of probability theory allow incorporation of expert (prior) knowledge in scientific inference.
+
+4. When data is scarce, the Bayesian school of probability theory is the most useful for scientific inference.
+
+5. A prominent figure in the Frequentist school of thought is Jerzy Neyman, and in the Bayesian school of thought, it's Thomas Bayes.
+
+6. The range of a probability value is between 0 and 1, inclusive. This range is a necessity of the definition of probability, as it represents the likelihood of an event occurring, ranging from impossible (0) to certain (1).
+
+7. In this scenario, the observation that aligns more with prior knowledge or expectations would be trusted. This aligns with the principle of Bayesian Probability Theory, which emphasizes updating beliefs based on prior knowledge and observed evidence. If, for example, the area is known to have horses but not donkeys, the observation of a horse would be more trustworthy.
+
+
+
+11. The truth table shows that the columns for 
+A⇒BA⇒B and B⇒A B⇒A are identical, so the two statements are logically equivalent.
+Alternatively, we can explain this through a logical argument:
+A⇒B A⇒B means "If A is true, then B is true."
+B⇒A B⇒A means "If B is true, then A is true."
